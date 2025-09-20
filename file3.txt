@@ -1,2 +1,2 @@
 This is file3.txt
-A new line added in GitHub
+New line added in GitHub
